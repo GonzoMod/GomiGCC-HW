@@ -1,1 +1,1 @@
-# GomiGCC_HW
+# GomiGCC-HW
